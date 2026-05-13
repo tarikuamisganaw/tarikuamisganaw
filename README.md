@@ -8,7 +8,7 @@
 
 ---
 
-## Featured Project: Self-Verifying RAG System
+## Featured Project:AI Agentic Research Assistant
 Production-oriented AI document assistant with:
 - confidence-based routing  
 - grounded citations  
