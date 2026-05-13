@@ -1,21 +1,24 @@
-# Hi, I'm Tarikua 👋
+Hi, I'm Tarikua 👋
 
 AI Engineer focused on:
-- Agentic AI systems
-- RAG pipelines
-- LLM reliability
-- FastAPI backend systems
+• Agentic AI systems
+• RAG pipelines & LLM reliability
+• FastAPI backend systems
+• Graph intelligence & reasoning systems
 
-## Featured Project
-### Self-Verifying RAG System
+Featured Project:
+Self-Verifying RAG System
 Production-oriented AI document assistant with:
-- confidence-based routing
-- grounded citations
-- PDF ingestion
-- verification loops
+• confidence-based routing
+• grounded citations
+• PDF ingestion
+• verification loops
 
-## Tech Stack
-Python • FastAPI • FAISS • React • Docker • Gemini API
+Experience:
+Currently contributing to intelligent systems and reinforcement learning research at [iCog Labs](https://icog-labs.com/), including graph reasoning, symbolic AI, and certificate-driven RL systems.
 
-## Current Focus
-Building reliable AI systems with retrieval and self-verification.
+Tech Stack:
+Python • FastAPI • FAISS • React • Docker • Gemini API • MeTTa
+
+Current Focus:
+Building reliable AI systems with retrieval, verification, and intelligent workflows.
