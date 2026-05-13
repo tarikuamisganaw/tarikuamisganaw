@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Tarikua 👋
 
-<!--
-**tarikuamisganaw/tarikuamisganaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on:
+- Agentic AI systems
+- RAG pipelines
+- LLM reliability
+- FastAPI backend systems
 
-Here are some ideas to get you started:
+## Featured Project
+### Self-Verifying RAG System
+Production-oriented AI document assistant with:
+- confidence-based routing
+- grounded citations
+- PDF ingestion
+- verification loops
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python • FastAPI • FAISS • React • Docker • Gemini API
+
+## Current Focus
+Building reliable AI systems with retrieval and self-verification.
